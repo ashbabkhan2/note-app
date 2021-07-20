@@ -1,0 +1,9 @@
+/* *{
+    
+} */
+.parent_input{
+    box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.5);
+    padding: 25px 20px;
+    width: 80%;
+    margin: 10px auto;
+}

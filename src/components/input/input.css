@@ -1,0 +1,27 @@
+.inputs input,.inputs textarea{
+    width: 100%;
+    border-radius: 3px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    border: 1px solid rgba(0,0,0,0.5);
+    outline: none;
+    margin: 5px 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    text-align: center;
+    text-transform:uppercase;
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    font-weight: bold;
+    text-shadow: 1px 0px purple;
+}
+span{
+    color: purple;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
