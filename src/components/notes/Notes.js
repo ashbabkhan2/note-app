@@ -3,7 +3,7 @@ import './notes.css';
 const Notes = (props) =>{
   return(
      <div className='notes'>
-         <h1 className='h1'>TiTLE</h1>
+         <h1 className='h1'>Title</h1>
          <h3 className='h2'>{props.names}</h3>
          <h1 className='h1'>Notes</h1>
          <h3 className='h2'>{props.age}</h3>
